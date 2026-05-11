@@ -1,0 +1,59 @@
+﻿id,Title,url
+1,Guidelines for statistical reporting in articles for medical journals. Amplifications and explanations,pubmed.ncbi.nlm.nih.gov/3341656/
+2,Ten Simple Rules for Effective Statistical Practice,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961
+3,How to Read the Statistical Methods Literature: A Guide for Students,https://www.tandfonline.com/doi/abs/10.1080/00031305.1997.10473951
+4,Data Organization in Spreadsheets,https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
+5,Let's Practice What We Preach,https://www.tandfonline.com/doi/abs/10.1198/000313002317572790
+6,COMMUNICATION IN STATISTICAL CONSULTATION,https://www.stat.auckland.ac.nz/~iase/publications/icots8/ICOTS8_4H2_MOOLMAN.pdf
+7,"The ASA Statement on p-Values: Context, Process, and Purpose",https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108
+8,Moving to a World Beyond “p < 0.05”,https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913
+9,Abandon Statistical Significance,https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1527253
+10,Putting the P-Value in its Place,https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1470033
+11,What Have We (Not) Learnt from Millions of Scientific Papers with P Values?,https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1447512
+12,"The garden of forking paths: Why multiple comparisons can be a problem,
+even when there is no “fishing expedition” or “p-hacking” and the research
+hypothesis was posited ahead of time∗",https://sites.stat.columbia.edu/gelman/research/unpublished/p_hacking.pdf
+13,"Degrees of Freedom in Planning, Running, Analyzing, and Reporting Psychological Studies: A Checklist to Avoid p-Hacking",https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01832/full
+14,False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant,https://journals.sagepub.com/doi/10.1177/0956797611417632
+15,HARKing: hypothesizing after the results are known,https://pubmed.ncbi.nlm.nih.gov/15647155/
+16,"What you see may not be what you get: a brief, nontechnical introduction to overfitting in regression-type models",https://pubmed.ncbi.nlm.nih.gov/15184705/
+17,Modern modelling techniques are data hungry: a simulation study for predicting dichotomous endpoints,https://pmc.ncbi.nlm.nih.gov/articles/PMC4289553/
+18,Prediction error estimation: a comparison of resampling methods,https://pubmed.ncbi.nlm.nih.gov/15905277
+19,TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods,https://www.bmj.com/content/385/bmj-2023-078378
+20,Road Map for Choosing Between Statistical Modeling and Machine Learning,https://www.fharrell.com/post/stat-ml/
+21,Statistical Models vs. Machine Learning in Health Research,https://hbiostat.org/talks/iscb20.html
+22,Causal Inference: What If ,https://static1.squarespace.com/static/675db8b0dd37046447128f5f/t/691fb7706ce66332f0b44467/1763686256720/hernanrobins_WhatIf_21nov25.pdf
+23,Immortal time bias in pharmaco-epidemiology,https://pubmed.ncbi.nlm.nih.gov/18056625/
+24,Ten common statistical mistakes to watch out for when writing or reviewing a manuscript,https://pmc.ncbi.nlm.nih.gov/articles/PMC6785265/
+25,The Interpretation of Interaction in Contingency Tables,https://www.jstor.org/stable/2984065
+26,Ecological Correlations and the Behavior of Individuals,https://www.jstor.org/stable/2087176
+27,Regression to the mean: what it is and how to deal with it,https://pubmed.ncbi.nlm.nih.gov/15333621/
+28,Catalogue of Bias Collaboration. Selection bias entry,https://catalogofbias.org/biases/selection-bias/
+29,Guidelines for statistical reporting in articles for medical journals. Amplifications and explanations,https://pubmed.ncbi.nlm.nih.gov/3341656/
+30,Helping Doctors and Patients Make Sense of Health Statistics,https://pubmed.ncbi.nlm.nih.gov/26161749/
+31,Common pitfalls in statistical analysis: Odds versus risk,https://pubmed.ncbi.nlm.nih.gov/26623395/
+32,The Hazards of Hazard Ratios,https://pmc.ncbi.nlm.nih.gov/articles/PMC3653612/
+33,CONSORT 2010 statement: Updated guidelines for reporting parallel group randomised trials,https://pmc.ncbi.nlm.nih.gov/articles/PMC3043330/
+34,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://www.bmj.com/content/372/bmj.n71
+35,CARE Case Report Guidelines,https://www.care-statement.org/
+36,Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension,https://www.nature.com/articles/s41591-020-1034-x
+37,"Statistical Analysis with Missing Data, Third Edition",https://onlinelibrary.wiley.com/doi/book/10.1002/9781119482260
+38,Measurement Error in Nonlinear Models,https://www.taylorfrancis.com/books/mono/10.1201/9781420010138/measurement-error-nonlinear-models-raymond-carroll-david-ruppert-leonard-stefanski-ciprian-crainiceanu
+39,Big Data Ethics,https://journals.sagepub.com/doi/10.1177/2053951714559253
+40,Statistical Errors in the Medical Literature,https://www.fharrell.com/post/errmed/
+41,Why Most Published Research Findings Are False,https://pmc.ncbi.nlm.nih.gov/articles/PMC1182327/
+42,Statistics in Medicine — Reporting of Subgroup Analyses in Clinical Trials,https://www.nejm.org/doi/full/10.1056/NEJMsr077003
+43,Statistical Methods in Psychology Journals,https://www.apa.org/pubs/journals/releases/amp-54-8-594.pdf 
+44,Estimating the reproducibility of psychological science,https://www.science.org/doi/10.1126/science.aac4716 
+45,Data Analysis Using Regression and Multilevel/Hierarchical Models,https://sites.stat.columbia.edu/gelman/arm/
+46,Causal Diagrams for Epidemiologic Research,https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemiologic_research.8.aspx
+47,Use of directed acyclic graphs (DAGs) to identify confounders in applied health research: review and recommendations,https://academic.oup.com/ije/article/50/2/620/6012812
+48,The Statistical Crisis in Science,http://www.americanscientist.org/issues/feature/2014/6/the-statistical-crisis-in-science 
+49,Diagnostic tests. 1: Sensitivity and specificity.,https://pmc.ncbi.nlm.nih.gov/articles/PMC2540489/
+50,Diagnostic tests 2: Predictive values,https://pubmed.ncbi.nlm.nih.gov/8038641/
+51,Diagnostic tests 4: likelihood ratios,https://pmc.ncbi.nlm.nih.gov/articles/PMC478236/
+52,A 21 Word Solution,https://ssrn.com/abstract=2160588
+53,Promoting an open research culture,https://www.science.org/doi/10.1126/science.aab2374 
+54,Multiple imputation for missing data in epidemiological and clinical research: potential and ,https://pmc.ncbi.nlm.nih.gov/articles/PMC2714692/
+55,Flexible Imputation of Missing Data,https://stefvanbuuren.name/fimd/
+56,Generalisation and extrapolation,https://pmc.ncbi.nlm.nih.gov/articles/PMC1113677/
