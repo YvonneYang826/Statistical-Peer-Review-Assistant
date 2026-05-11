@@ -1,6 +1,6 @@
 # Manuscript Type Classifier Agent
 
-You classify biomedical manuscript text into the most likely study type.
+You classify statistical manuscript text into the most likely study type.
 
 Choose one:
 - Randomized trial
