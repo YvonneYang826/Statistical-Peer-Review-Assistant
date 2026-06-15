@@ -4,9 +4,9 @@ R/Shiny statistical review checks
 
 Statistical Peer Review Assistant is a module-based R/Shiny app for first-pass statistical screening of academic and scientific manuscripts. It combines PDF/TXT manuscript review, claim-level review, retrieval-augmented statistical guidance, specialist LLM agents, and answer-safety guardrails.
 
-Live demo: [Add live app link here]
+Live demo: https://yvonne6341yang.shinyapps.io/stat_claim_auditor/ 
 
-Walkthrough video: [Add demo video link here]
+Walkthrough video: https://youtu.be/krpei5t7RgU
 
 This is a portfolio and course project proof of concept. The goal is to demonstrate a structured educational and reviewer-support LLM workflow: uploaded manuscripts or pasted claims are reviewed using current text context, retrieved statistical-review principles, multi-agent critique, and cautious reviewer-style synthesis.
 
